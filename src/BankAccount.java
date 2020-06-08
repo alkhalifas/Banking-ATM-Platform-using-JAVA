@@ -1,6 +1,10 @@
 import java.util.Scanner;
 import java.util.Date;
 
+/**
+ * Bank Account class that creates an account for a user using their first name, last name, id, and
+ * join date.
+ */
 public class BankAccount {
   int balance;
   int previousTransaction;
@@ -99,51 +103,51 @@ public class BankAccount {
       option = scanner.next().charAt(0);
       System.out.println("\n");
 
-        switch(option) {
+      switch (option) {
 
-          case 'A':
-            System.out.println("----------------------------------");
-            System.out.println("Current Balance = " + balance);
-            System.out.println("----------------------------------");
-            System.out.println("\n");
-            break;
+        case 'A':
+          System.out.println("----------------------------------");
+          System.out.println("Current Balance = " + balance);
+          System.out.println("----------------------------------");
+          System.out.println("\n");
+          break;
 
-          case 'B':
-            System.out.println("----------------------------------");
-            System.out.println("Enter Deposit Amount: ");
-            System.out.println("----------------------------------");
-            int amount = scanner.nextInt();
-            deposit(amount);
-            System.out.println("\n");
-            System.out.println("Deposit Successful.");
-            System.out.println("\n");
-            break;
+        case 'B':
+          System.out.println("----------------------------------");
+          System.out.println("Enter Deposit Amount: ");
+          System.out.println("----------------------------------");
+          int amount = scanner.nextInt();
+          deposit(amount);
+          System.out.println("\n");
+          System.out.println("Deposit Successful.");
+          System.out.println("\n");
+          break;
 
-          case 'C':
-            System.out.println("----------------------------------");
-            System.out.println("Enter Withdrawal Amount: ");
-            System.out.println("----------------------------------");
-            int withdrawAmount = scanner.nextInt();
-            withdraw(withdrawAmount);
-            System.out.println("\n");
-            System.out.println("Withdrawal Successful.");
-            System.out.println("\n");
-            break;
+        case 'C':
+          System.out.println("----------------------------------");
+          System.out.println("Enter Withdrawal Amount: ");
+          System.out.println("----------------------------------");
+          int withdrawAmount = scanner.nextInt();
+          withdraw(withdrawAmount);
+          System.out.println("\n");
+          System.out.println("Withdrawal Successful.");
+          System.out.println("\n");
+          break;
 
-          case 'D':
-            System.out.println("----------------------------------");
-            getPreviousTransaction();
-            System.out.println("----------------------------------");
-            System.out.println("\n");
-            break;
+        case 'D':
+          System.out.println("----------------------------------");
+          getPreviousTransaction();
+          System.out.println("----------------------------------");
+          System.out.println("\n");
+          break;
 
-          case 'E':
-            System.out.println("----------------------------------");
-            break;
+        case 'E':
+          System.out.println("----------------------------------");
+          break;
 
-          default:
-            System.out.println("Invalid Selection. Please Select from the Menu (A, B, C, D, or E");
-        }
+        default:
+          System.out.println("Invalid Selection. Please Select from the Menu (A, B, C, D, or E");
+      }
     }
     while (option != 'E');
     System.out.println("Thank you for using Java Bank. Have a Great Day.");
