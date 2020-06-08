@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b5b5419-db64-4f51-8ece-04a3c447d8eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d17kgc3cyR1RE8NrI9Cah0ONMg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BankAccountTest">
+    <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankingATM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testDeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankingATM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
+      <option name="METHOD_NAME" value="testDeposit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testGetBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankingATM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
+      <option name="METHOD_NAME" value="testGetBalance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testGetPreviousTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankingATM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
+      <option name="METHOD_NAME" value="testGetPreviousTransaction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountTest.testWithdrawal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankingATM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
+      <option name="METHOD_NAME" value="testWithdrawal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BankAccountTest" />
+        <item itemvalue="JUnit.BankAccountTest.testGetPreviousTransaction" />
+        <item itemvalue="JUnit.BankAccountTest.testWithdrawal" />
+        <item itemvalue="JUnit.BankAccountTest.testDeposit" />
+        <item itemvalue="JUnit.BankAccountTest.testGetBalance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b5b5419-db64-4f51-8ece-04a3c447d8eb" name="Default Changelist" comment="" />
+      <created>1591580890013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591580890013</updated>
+      <workItem from="1591580893273" duration="3233000" />
+      <workItem from="1591584241049" duration="1146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591581106035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591581106035" />
+    <state width="1877" height="178" key="GridCell.Tab.0.bottom" timestamp="1591585378049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591585378049" />
+    <state width="1877" height="178" key="GridCell.Tab.0.center" timestamp="1591585378049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591585378049" />
+    <state width="1877" height="178" key="GridCell.Tab.0.left" timestamp="1591585378049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591585378049" />
+    <state width="1877" height="178" key="GridCell.Tab.0.right" timestamp="1591585378049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="178" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591585378049" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1591584311496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591584311496" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1591584242088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591584242088" />
+    <state x="664" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591584366897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591584366897" />
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591584358998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591584358998" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591583317627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591583317627" />
+  </component>
+</project>
