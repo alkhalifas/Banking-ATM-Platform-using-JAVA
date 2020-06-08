@@ -42,7 +42,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BankAccountTest">
+  <component name="RunManager" selected="Application.BankingATM">
+    <configuration name="BankingATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankingATM" />
+      <module name="BankingATM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BankingATM" />
       <option name="PACKAGE_NAME" value="" />
@@ -57,16 +64,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
       <option name="METHOD_NAME" value="testDeposit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BankAccountTest.testGetBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BankingATM" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
-      <option name="METHOD_NAME" value="testGetBalance" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankingATM" />
         <item itemvalue="JUnit.BankAccountTest" />
         <item itemvalue="JUnit.BankAccountTest.testGetPreviousTransaction" />
         <item itemvalue="JUnit.BankAccountTest.testWithdrawal" />
         <item itemvalue="JUnit.BankAccountTest.testDeposit" />
-        <item itemvalue="JUnit.BankAccountTest.testGetBalance" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591580890013</updated>
       <workItem from="1591580893273" duration="3233000" />
-      <workItem from="1591584241049" duration="1421000" />
+      <workItem from="1591584241049" duration="1668000" />
     </task>
     <servers />
   </component>
@@ -122,22 +119,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591581106035" />
-    <state width="1877" height="178" key="GridCell.Tab.0.bottom" timestamp="1591585378049">
+    <state width="1877" height="520" key="GridCell.Tab.0.bottom" timestamp="1591586038443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591585378049" />
-    <state width="1877" height="178" key="GridCell.Tab.0.center" timestamp="1591585378049">
+    <state width="1877" height="520" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591586038443" />
+    <state width="1877" height="520" key="GridCell.Tab.0.center" timestamp="1591586038443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="178" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591585378049" />
-    <state width="1877" height="178" key="GridCell.Tab.0.left" timestamp="1591585378049">
+    <state width="1877" height="520" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591586038443" />
+    <state width="1877" height="520" key="GridCell.Tab.0.left" timestamp="1591586038443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="178" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591585378049" />
-    <state width="1877" height="178" key="GridCell.Tab.0.right" timestamp="1591585378049">
+    <state width="1877" height="520" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591586038443" />
+    <state width="1877" height="520" key="GridCell.Tab.0.right" timestamp="1591586038443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="178" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591585378049" />
+    <state width="1877" height="520" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.6.1920.1040@0.0.1920.1040" timestamp="1591586038443" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1591584311496">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
